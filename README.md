@@ -4,7 +4,7 @@ A repository of a few Certify the Web scripts I've put together over the years.
 ## FilezillaFTPS-CertifytheWeb
 > Status: :warning: Deprecated
 >
-> Priority to Filezilla's native Let's Encrypt support, this script could be used to automate the renewal of a Let's Encrypt certificate into a Filezilla server with FTPS.
+> Prior to Filezilla's native Let's Encrypt support, this script could be used to automate the renewal of a Let's Encrypt certificate into a Filezilla server with FTPS.
 
 
 
